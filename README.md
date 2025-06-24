@@ -4,18 +4,18 @@
 
 ## 📌 Features
 
-- 📝 **Task Creation**: Easily create new tasks with titles, descriptions, priorities, and deadlines.
+- 📝 **Task Creation**: Easily create new tasks with titles, descriptions, priorities.
 - 👤 **Task Assignment**: Assign tasks to specific users.
-- 🔁 **Status Management**: Change the status of tasks (e.g., To Do, In Progress, Done).
-- 📊 **Dashboard**: Visualize all tasks and their statuses in the dashboard.
+- 🔁 **Status Management**: Change the status of tasks (To Do, In Progress, Done).
+- 📊 **Dashboard**: Visualize all tasks and their status in the dashboard.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React / TypeScript (or your actual stack)
-- **Backend**: Node.js / Express / NestJS (or your actual stack)
-- **Database**: PostgreSQL / MongoDB (or your actual DB)
-- **Authentication**: JWT / OAuth2 (if implemented)
-- **Styling**: TailwindCSS / Material UI / SCSS
+- **Frontend**: NextJs
+- **Backend**: NestJS
+- **Database**: MariaDB
+- **Authentication**: JWT
+- **Styling**: TailwindCSS
 
 ## ✅ Status
 
